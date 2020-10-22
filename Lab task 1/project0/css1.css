@@ -1,0 +1,165 @@
+body{
+color:red;
+background-color: yellow;
+font-family: sans-serif;
+font-size: 20px;
+font-style: italic;
+background-image: url('/html and css/1st project/back.jpg');
+background-size: cover;
+background-attachment: fixed;
+}
+.red{text-align: center;
+	background-color:red;
+	color:#fff;
+	padding:30px 20px 30px 20px;
+	margin: 30px 600px 30px 600px;
+	border: 5px outset #BBB343; 
+
+}
+.blue{
+	color: blue;
+}
+.green{
+	color: green;
+}
+#white{
+	background-color: yellow;
+	padding: 10px 20px 20px 20px;
+	margin-right: 900px;
+}
+.far{
+	color: red;
+}
+.home{
+	color: green;
+}
+.ironman{
+	float: left;
+	margin: 5px;
+}
+.mark1{
+	float: left;
+	margin: 5px;
+}
+.mark2{
+float: left;
+margin: 20px;
+}
+.mark3{
+	float: left;
+	margin: 20px;
+}
+.h2{
+	background-color: white;
+	color: red;
+	margin: 0px 1200px 0px 0px;
+}
+.link{
+background-color: white;
+color: red;	
+margin: 0px 1200px 0px 0px;
+}
+.next{
+	background-color: white;
+color: red;
+margin-right: 1300PX;
+}
+
+.man{
+background-color: white;
+color: red;
+margin-right: 900PX;
+}
+
+#clear{
+	clear: left;
+}
+div ol{
+	color: red;
+}
+.char{
+	color: white;
+}
+.about{
+	color: white;
+}
+.head{
+	background-color: red;
+	color: #fff;
+	padding-left: 30px;
+	padding-right: 30px;
+	border: 2px outset white;
+	float: left;
+	width: 100px;
+}
+.news{background-color: white;
+	border: 1px outset yellow;
+	float: left;
+	width: 700px;
+}
+
+.bar ul li{
+	color: white;
+	list-style: none;
+	background-color: red;
+	padding: 5px;
+	margin: 2px ;
+	width: 100px;
+	float: right;
+
+}
+.barl ul li{
+color: white;
+list-style: none;
+background-color: red;
+padding: 4px;
+margin: 1px;
+width: 100px;
+}
+#about2 p:first-letter{
+	font-size: 50px;
+}
+#mark12 p:first-letter{
+	font-size: 50px;
+}
+#mark22 p:first-letter{
+	font-size: 50px;
+}
+#mark32 p:first-letter{
+	font-size: 50px;
+}
+.next{
+	background-color: white;
+color: red;
+margin-right: 1300PX;
+}
+.next a{
+	color: black;
+	text-decoration: none;
+}
+.next a:hover{
+color:red;
+}
+.next :active{
+color: blue;
+}
+.next :visited{
+color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
